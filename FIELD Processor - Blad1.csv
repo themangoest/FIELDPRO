@@ -1,0 +1,23 @@
+Field Processor,,,
+,,,
+Amount,,Part Type,Properties
+1,,Generic female header - 4 pins,"package THT; hole size 1.5mm,0.508mm; row single; form ♀ (female); pins 4; pin spacing 0.156in (3.96mm)"
+16,,Generic female header - 1 pins,"package THT; hole size 1.0mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm)"
+8,,100k Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 100kΩ
+5,,Trimpot 3362P,package 3362P; variant variant 2; part # 100k
+1,,10nF C0G,package 2010 [SMD]; tolerance ±5%; part # 10nF C0G
+1,,10 Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 10Ω
+2,,110k Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 110kΩ
+3,,15k Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 15kΩ
+5,,220k Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 220kΩ
+2,,330 Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 330Ω
+3,,47.5k Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 47.5kΩ
+2,,4.7M Ω Resistor,package 1206 [SMD]; tolerance ±5%; resistance 4.7MΩ
+1,,SO16,package SO16; true; chip label IC; part # AS3280
+2,,PNP-Transistor,package SOT-23 [SMD]; type PNP; part # BC848
+2,,PNP-Transistor,package SOT-23 [SMD]; type PNP; part # BC857
+1,,Generic female header - 1 pins,"package THT; hole size 1.1mm,0.508mm; row single; form ♀ (female); pins 1; pin spacing 0.1in (2.54mm)"
+1,,Generic molex header - 4 pins,"package THT; hole size 1.5mm,0.508mm; row single; form molex; pins 4; pin spacing 0.156in (3.96mm)"
+2,,10nF,package 1206 [SMD]; tolerance ±5%; ; part # 10nF
+1,,47pF,package 1206 [SMD]; tolerance ±5%; part # 47pF
+2,,SO08,package SO08; true; chip label IC; part # TL072
